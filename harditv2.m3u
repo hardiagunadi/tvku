@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=“sctv” tvg-name=“sctv” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/320px-SCTV_Logo.svg.png" group-title="TV Indonesia",SCTV
+#EXTINF:-1 tvg-id=“sctv” tvg-name=“sctv” tvg-logo="sctv.png" group-title="TV Indonesia",SCTV
 https://iptv.prakashdivy.id/vidio/sctv/index.m3u8
-#EXTINF:-1 tvg-id=“antv” tvg-name=“antv” tvg-logo="https://cdn0-a.production.images.static6.com/n1ILSZU2Jio8es2on_ApJ7l9WUs=/172x96/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg" group-title="TV Indonesia",ANTV
-https://kmklive-lh.akamaihd.net/i/antv_ta_regular@577566/master.m3u8
