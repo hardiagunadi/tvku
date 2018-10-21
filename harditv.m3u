@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=“sctv” tvg-name=“sctv” tvg-logo="img/sctv.jpg" group-title="TV Indonesia",SCTV
+#EXTINF:-1 tvg-id=“sctv” tvg-name=“sctv” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/320px-SCTV_Logo.svg.png" group-title="TV Indonesia",SCTV
 https://iptv.prakashdivy.id/vidio/sctv/index.m3u8
