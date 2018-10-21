@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=“sctv” tvg-name=“sctv” tvg-logo="sctv.png" group-title="TV Indonesia",SCTV
+#EXTINF:-1 tvg-id=“SCTV” tvg-name=“SCTV” tvg-logo="sctv.png" group-title="TV Indonesia",SCTV
 https://iptv.prakashdivy.id/vidio/sctv/index.m3u8
 #EXTINF:-1 tvg-id=“METRO TV” tvg-name=“METRO TV” tvg-logo="metrotv.png" group-title="TV Indonesia",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=“METRO TV” tvg-name=“METRO TV” tvg-logo="metrotv.png" group-title="TV Indonesia",METRO TV
