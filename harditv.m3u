@@ -5,5 +5,5 @@ https://iptv.prakashdivy.id/vidio/sctv/index.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=“indosiar” tvg-name=“indosiar” tvg-logo="indosiar.png" group-title="TV Indonesia",INDOSIAR
 https://kmklive-lh.akamaihd.net/i/indosiar_ta_regular@94479/master.m3u8
-#EXTINF:-1 tvg-id=“” tvg-name=“” tvg-logo="/img/antv.png" group-title="TV Indonesia",ANTV
+#EXTINF:-1 tvg-id=“antv” tvg-name=“antv” tvg-logo="/img/antv.png" group-title="TV Indonesia",ANTV
 https://kmklive-lh.akamaihd.net/i/antv_ta_regular@577566/master.m3u8
