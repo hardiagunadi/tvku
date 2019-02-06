@@ -1,24 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=“SCTV” tvg-name=“SCTV Live Streaming” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/320px-SCTV_Logo.svg.png" group-title="TV Indonesia",SCTV
-https://kmklive-lh.akamaihd.net/i/sctv_ta_regular@94479/master.m3u8
-#EXTINF:-1 tvg-id=“metro-tv” tvg-name=“metro-tv” tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="TV Indonesia",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=“indosiar” tvg-name=“indosiar” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="TV Indonesia",INDOSIAR
+#EXTINF:-1,TVRI
+http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV One
+http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Metro TV
+http://202.80.222.130/000001/2/ch14041511515576869807/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RCTI
+http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,GTV
+http://202.80.222.130/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNCTV
+http://202.80.222.130/000001/2/ch14041511111714365733/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,iNews
+http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Indosiar
 http://202.80.222.130/000001/2/ch15051810235326945512/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id=“antv” tvg-name=“antv” tvg-logo="https://cdn0-a.production.images.static6.com/n1ILSZU2Jio8es2on_ApJ7l9WUs=/172x96/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg" group-title="TV Indonesia",ANTV
-https://kmklive-lh.akamaihd.net/i/antv_ta_regular@577566/master.m3u8
-#EXTINF:-1 tvg-id=“trans-tv” tvg-name=“trans-tv” tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="TV Indonesia",TRANS TV
-https://kmklive-lh.akamaihd.net/i/transtv_ta_regular@94476/master.m3u8
-#EXTINF:-1 tvg-id=“rcti” tvg-name=“rcti” tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/300px-RCTI_logo_2015.svg.png" group-title="TV Indonesia",RCTI
-https://kmklive-lh.akamaihd.net/i/rcti_ta_regular@94478/master.m3u8
-#EXTINF:-1 tvg-id=“trans-7” tvg-name=“trans-7” tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="TV Indonesia",TRANS 7
-https://kmklive-lh.akamaihd.net/i/trans7_ta_regular@94476/master.m3u8
-#EXTINF:-1 tvg-id=“mnc-tv” tvg-name=“mnc-tv” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/320px-MNCTV_logo_2015.svg.png" group-title="TV Indonesia",MNC TV
-https://kmklive-lh.akamaihd.net/i/mnctv_ta_regular@137568/master.m3u8
-#EXTINF:-1 tvg-id=“tv-one” tvg-name=“tv-one” tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/320px-TvOne_logo_2012.svg.png" group-title="TV Indonesia",TV ONE
-https://kmklive-lh.akamaihd.net/i/tvone_ta_regular@577566/master.m3u8
-#EXTINF:-1,NET TV
-https://kmklive-lh.akamaihd.net/i/nettv_ta_regular@198086/master.m3u8
+#EXTINF:-1,Trans TV
+http://202.80.222.130/000001/2/ch14041511552652254306/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Trans 7
+http://202.80.222.130/000001/2/ch14041511545447343123/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SCTV
+http://202.80.222.130/000001/2/ch15010918464887721048/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Kompas TV
+http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RTV
+http://202.80.222.130/000001/2/ch00000090990000001716/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JAK TV
+http://202.80.222.130/000001/2/ch00000090990000001695/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Berita Satu
+http://202.80.222.130/000001/2/ch00000090990000001683/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,BALI TV
+http://202.80.222.130/000001/2/ch00000090990000001729/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JTV
+http://202.80.222.130/000001/2/ch00000090990000001731/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,NET. https://iptv.luxe
+http://202.80.222.130/000001/2/ch00000090990000001723/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,A&E HD
 http://maxptv.ddns.net:25461/zac/zac/231
 #EXTINF:-1,A&E SD
