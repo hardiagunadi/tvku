@@ -35,7 +35,7 @@ http://202.80.222.130/000001/2/ch00000090990000001683/1000.m3u8?virtualDomain=00
 http://202.80.222.130/000001/2/ch00000090990000001729/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,JTV
 http://202.80.222.130/000001/2/ch00000090990000001731/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,NET. https://iptv.luxe
+#EXTINF:-1,NET. 
 http://202.80.222.130/000001/2/ch00000090990000001723/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,A&E HD
 http://maxptv.ddns.net:25461/zac/zac/231
