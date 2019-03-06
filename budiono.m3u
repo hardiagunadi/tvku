@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Selamat Datang BudionoTV
+https://www.youtube.com/watch?v=tiqx1iEHsdA
 #EXTINF:-1,ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 #EXTINF:-1,JAK TV
@@ -35,25 +37,25 @@ http://202.80.222.130/000001/2/ch14061215030555428637/1001.m3u8?virtualDomain=00
 http://202.80.222.130/000001/2/ch14041511560872104862/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 #EXTINF:-1,FOX life
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/02.m3u8
-#EXTINF:-1,FOX life
+#EXTINF:-1,FOX life (alt)
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
 #EXTINF:-1,KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:-1,KIX
+#EXTINF:-1,KIX (alt)
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:-1,thrill
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1,thrill
+#EXTINF:-1,thrill (alt)
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,ANIPLUS
 http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
-#EXTINF:-1,ANIPLUS
+#EXTINF:-1,ANIPLUS (alt)
 http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/02.m3u8
 #EXTINF:-1,FOX ACTION MOVIES
 http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
-#EXTINF:-1,FOX MOVIE PREMIUM
+#EXTINF:-1,FOX MOVIE PREMIUM - OFF - 
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
-#EXTINF:-1,FOX FAMILY MOVIES
+#EXTINF:-1,FOX FAMILY MOVIES - OFF - 
 http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/01.m3u8
 #EXTINF:-1,SBSIN
 http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8
