@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Selamat Datang BudionoTV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/MP5QUuLDIAE.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r3---sn-npoeen76.googlevideo.com/gcr/id/playlist_type/DVR/ei/HIN_XLGSMobkoAPYgqKQAw/initcwndbps/2620/mm/32/mn/sn-npoeen76/ms/lv/mv/m/pl/22/dover/11/keepalive/yes/mt/1551860424/disable_polymer/true/ip/180.245.206.141/ipbits/0/expire/1551882108/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,gcr,playlist_type,ei,initcwndbps,mm,mn,ms,mv,pl/signature/054A43D8A888819B2A95E29A20842E28B6D745A8.34606A1B74FC449BC04B5978AABDA1B35ED5E538/key/dg_yt0/playlist/index.m3u8
 #EXTINF:-1,ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 #EXTINF:-1,JAK TV
