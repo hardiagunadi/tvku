@@ -33,6 +33,8 @@ http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=00
 http://202.80.222.130/000001/2/ch14061215030555428637/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 #EXTINF:-1,TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,NET.
+http://202.80.222.130/000001/2/ch00000090990000001723/1000.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 #EXTINF:-1,FOX life
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/02.m3u8
 #EXTINF:-1,FOX life (alt)
