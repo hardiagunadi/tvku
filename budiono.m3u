@@ -23,6 +23,8 @@ http://202.80.222.130/000001/2/ch14041511552652254306/1001.m3u8?virtualDomain=00
 http://202.80.222.130/000001/2/ch15010918464887721048/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 #EXTINF:-1,Indosiar
 http://202.80.222.130/000001/2/ch15051810235326945512/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,(alt) Indosiar 
+http://id2.indostreamingtv.com/live/tv111/index.m3u8
 #EXTINF:-1,jtv
 http://202.80.222.130/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 #EXTINF:-1,Metro TV
