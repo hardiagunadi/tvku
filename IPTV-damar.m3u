@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,ANTV
+#EXTINF:k-1,ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 #EXTINF:-1,JAK TV
 http://202.80.222.130/000001/2/ch00000090990000001695/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
@@ -111,3 +111,5 @@ http://210.210.155.35/session/664e7ce8-7b7b-11e8-a6e4-b82a72d63267/x6bnqe/s/s39/
 http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
 #EXTINF:-1,TVE
 http://210.210.155.35/session/38ee33d8-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s25/01.m3u8
+#EXTINF:-1,SUPER SOCCER (ID)
+http://210.210.155.35/uq2663/h/h20/index2.m3u8
