@@ -37,22 +37,16 @@ http://202.80.222.130/000001/2/ch14061215030555428637/1001.m3u8?virtualDomain=00
 http://202.80.222.130/000001/2/ch14041511560872104862/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 #EXTINF:-1,NET.
 http://202.80.222.130/000001/2/ch00000090990000001723/1000.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,JEK TV JAMBI
+http://182.253.193.35:1935/live/myStream1/playlist.m3u8
 #EXTINF:-1,FOX life
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/02.m3u8
-#EXTINF:-1,FOX life (alt)
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
 #EXTINF:-1,KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:-1,KIX (alt)
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:-1,thrill
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1,thrill (alt)
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,ANIPLUS
 http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
-#EXTINF:-1,ANIPLUS (alt)
-http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/02.m3u8
 #EXTINF:-1,FOX ACTION MOVIES
 http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
 #EXTINF:-1,CELESTIAL MOVIES
@@ -67,6 +61,10 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/02.m3u8
 #EXTINF:-1,K-DRAMA
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/02.m3u8
+#EXTINF:-1,K+ 
+http://210.210.155.35/uq2663/h/h08/index2.m3u8
+#EXTINF:-1,MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1,ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 #EXTINF:-1,FOX ACTION MOVIES
